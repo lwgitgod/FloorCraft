@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\page.tsx -> @/components/FloorPlanEditor\":{\"id\":\"app\\\\page.tsx -> @/components/FloorPlanEditor\",\"files\":[\"static/chunks/_app-pages-browser_src_components_FloorPlanEditor_tsx.js\"]}}"
